@@ -1,0 +1,148 @@
+#index_main.section {
+	background-color: #EDEDED;
+	background-image: -moz-linear-gradient(50% 0% -90deg,rgb(238,238,238) 0%,rgb(255,255,255) 100%);
+	background-image: -webkit-gradient(linear,50% 0%,50% 51%,color-stop(0, rgb(238,238,238)),color-stop(1, rgb(255,255,255)));
+	background-image: -webkit-linear-gradient(-90deg,rgb(238,238,238) 0%,rgb(255,255,255) 100%);
+	background-image: -o-linear-gradient(-90deg,rgb(238,238,238) 0%,rgb(255,255,255) 100%);
+	background-image: -ms-linear-gradient(-90deg,rgb(238,238,238) 0%,rgb(255,255,255) 100%);
+	background-image: linear-gradient(180deg,rgb(238,238,238) 0%,rgb(255,255,255) 100%);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffeeeeee,endColorstr=#ffffffff,GradientType=0)";
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffeeeeee,endColorstr=#ffffffff,GradientType=0);
+}
+
+#index_main.section .page .content {
+	width:100%;
+	background-image: url(../images/index_hero.png);
+	background-repeat: no-repeat;
+}
+
+#index_main.section .page .content .row {
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+#index_main.section .page .content .row .header {
+	margin-top: 30px;
+  text-align:center;
+  
+}
+
+#index_main.section .page .content .row.top {
+	border-bottom:1px solid rgb(204,204,204);
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+#index_main.section .page .content .job_container {
+	float: left;
+	display: inline-block;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 20px 20px 20px 20px;
+	text-align: left;
+	width: 290px;
+	min-height: 480px;
+}
+
+#index_main.section .page .content .job_container.middle {
+	border-left:1px solid rgb(204,204,204);
+	border-right:1px solid rgb(204,204,204);
+}
+
+#index_main.section .page .content .job_container p, #index_main.section .page .content .job_container ul {
+	margin-left:20px;
+}
+
+#index_main.section .page .content .job_container p.project {
+	font-size:15px;
+}
+
+
+#index_main.section .page .content .job_container ul {
+	margin-left:30px;
+}
+
+#index_main.section .page .content .job_container img {
+	margin-bottom:20px;
+}
+
+#index_main.section .page .content .job_container.wide {
+	float: left;
+	display: inline-block;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 20px 20px 20px 0px;
+	text-align: left;
+	width: 980px;
+
+}
+
+#index_main.section .page .content .job_container.wide .col1 {
+	float: left;
+	display: inline-block;
+	margin-bottom: 30px;
+	padding: 20px 20px 20px 20px;
+	text-align: left;
+	width: 300px;
+
+}
+
+#index_main.section .page .content .job_container.wide .col2 {
+	float: left;
+	display: inline-block;
+	margin-bottom: 30px;
+	padding: 20px 20px 20px 20px;
+	text-align: left;
+	width: 280px;
+
+}
+
+#index_main.section .page .content .job_container.wide .col3 {
+	float: left;
+	display: inline-block;
+	margin-bottom: 30px;
+	padding: 20px 20px 20px 20px;
+	text-align: left;
+	width: 280px;
+
+}
+
+/*#index_main.section .page .content #form_container .inner_form #form_header {
+	margin:10px;
+	text-align: center;
+	width:auto;
+	height:auto;
+}
+
+#index_main.section .page .content #form_container .inner_form #form {
+	margin-left:10px;
+	margin-top:20px;
+	width:auto;
+	height:auto;
+}
+
+#index_main.section .page .content #form_container .inner_form .row {
+	margin-bottom:7px;
+	padding-left:20px
+}
+
+#index_main.section .page .content #form_container .inner_form .row.submit {
+	margin-top:20px;
+	margin-bottom:15px;
+	padding-left:0px
+}
+
+#index_sub1.section {
+	background-color: #EDEDED;
+	border-top:1px solid #bbb;
+	text-align:center;
+}
+
+#index_sub1.section .page .content {
+	width: 100%;
+	height: 200px;
+}
+
+#index_sub1.section .page .content img {
+	margin-top:25px;
+}*/
